@@ -11,7 +11,7 @@
 - Big Data Technologies
 - Cloud Computing
 
-## 💞️ I’m looking to collaborate on ...
+## 🥇 I’m looking to collaborate on ...
 - Data Projects
 - Machine Learning Models
 - Data Visualization Dashboards
